@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+output_catalogs/*
+!output_catalogs/.gitkeep
+data/*.xlsx
+product_images/*
+.DS_Store
+Thumbs.db
